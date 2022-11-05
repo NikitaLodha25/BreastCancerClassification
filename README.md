@@ -6,9 +6,9 @@ Here, in the model 1 input layer, 1hidden layer and 1 output layer is constructe
 
 The epoch value is set to 10 and then data is fit into model.
 
-**Loss incurred=13.58% 
+**Loss incurred=13.58%**
 
-Accuracy=96.58%**
+**Accuracy=96.58%**
 
 Then loss and accuracy is plotted to see the difference between training data and validation data.
 
